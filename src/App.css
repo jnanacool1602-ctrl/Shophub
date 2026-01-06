@@ -8,6 +8,7 @@
 
 .header {
   display: flex;
+  color: #2a6a8a;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
